@@ -13,8 +13,11 @@ DevOps uses 4 main elements which are:
 - Culture
 
 By using all four of these aspects in systems development DevOps has many benefits such as:
-![DevOPS](https://user-images.githubusercontent.com/129324316/231448593-53073e37-c0d4-4a56-8c70-6d71e6f57eb7.png)
 
+
+
+
+![Untitled design (5)](https://user-images.githubusercontent.com/129324316/231449419-4f878372-0249-407a-b487-4c8c32fa4ab5.png)
 
 ## What is Cloud Computing
 
