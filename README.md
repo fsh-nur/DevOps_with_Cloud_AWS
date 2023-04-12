@@ -5,7 +5,6 @@
 DevOps is the collaboration of software development and operations, automating and integrating these two sectors, as a means to improve and streamline the development life cycle. 
 
 ## Benefits of DevOps
-![DevOPS](https://user-images.githubusercontent.com/129324316/231448593-53073e37-c0d4-4a56-8c70-6d71e6f57eb7.png)
 
 DevOps uses 4 main elements which are: 
 - Tools
@@ -14,6 +13,8 @@ DevOps uses 4 main elements which are:
 - Culture
 
 By using all four of these aspects in systems development DevOps has many benefits such as:
+![DevOPS](https://user-images.githubusercontent.com/129324316/231448593-53073e37-c0d4-4a56-8c70-6d71e6f57eb7.png)
+
 
 ## What is Cloud Computing
 
